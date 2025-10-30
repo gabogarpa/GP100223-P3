@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793588456163",
+    "project_id": "totp-ia",
+    "storage_bucket": "totp-ia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793588456163:android:25b7d2ddf10229599283d6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.vertexaigeminidemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtA5Qwspx7t3VnmRIxPumB3nmWoMGQww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
